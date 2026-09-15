@@ -1,0 +1,7 @@
+C:\Users\poliana.ssilva13\Documents\C#\Cadastro_de_Produto\Cadastro_de_Produto\bin\Debug\Cadastro_de_Produto.exe.config
+C:\Users\poliana.ssilva13\Documents\C#\Cadastro_de_Produto\Cadastro_de_Produto\bin\Debug\Cadastro_de_Produto.exe
+C:\Users\poliana.ssilva13\Documents\C#\Cadastro_de_Produto\Cadastro_de_Produto\bin\Debug\Cadastro_de_Produto.pdb
+C:\Users\poliana.ssilva13\Documents\C#\Cadastro_de_Produto\Cadastro_de_Produto\obj\Debug\Cadastro_de_Produto.csproj.AssemblyReference.cache
+C:\Users\poliana.ssilva13\Documents\C#\Cadastro_de_Produto\Cadastro_de_Produto\obj\Debug\Cadastro_de_Produto.csproj.CoreCompileInputs.cache
+C:\Users\poliana.ssilva13\Documents\C#\Cadastro_de_Produto\Cadastro_de_Produto\obj\Debug\Cadastro_de_Produto.exe
+C:\Users\poliana.ssilva13\Documents\C#\Cadastro_de_Produto\Cadastro_de_Produto\obj\Debug\Cadastro_de_Produto.pdb
