@@ -1,0 +1,7 @@
+C:\Users\poliana.ssilva13\Documents\C#\Jogo_de_Adivinhação\Jogo_de_Adivinhação\bin\Debug\Jogo_de_Adivinhação.exe.config
+C:\Users\poliana.ssilva13\Documents\C#\Jogo_de_Adivinhação\Jogo_de_Adivinhação\bin\Debug\Jogo_de_Adivinhação.exe
+C:\Users\poliana.ssilva13\Documents\C#\Jogo_de_Adivinhação\Jogo_de_Adivinhação\bin\Debug\Jogo_de_Adivinhação.pdb
+C:\Users\poliana.ssilva13\Documents\C#\Jogo_de_Adivinhação\Jogo_de_Adivinhação\obj\Debug\Jogo_de_Adivinhação.csproj.AssemblyReference.cache
+C:\Users\poliana.ssilva13\Documents\C#\Jogo_de_Adivinhação\Jogo_de_Adivinhação\obj\Debug\Jogo_de_Adivinhação.csproj.CoreCompileInputs.cache
+C:\Users\poliana.ssilva13\Documents\C#\Jogo_de_Adivinhação\Jogo_de_Adivinhação\obj\Debug\Jogo_de_Adivinhação.exe
+C:\Users\poliana.ssilva13\Documents\C#\Jogo_de_Adivinhação\Jogo_de_Adivinhação\obj\Debug\Jogo_de_Adivinhação.pdb

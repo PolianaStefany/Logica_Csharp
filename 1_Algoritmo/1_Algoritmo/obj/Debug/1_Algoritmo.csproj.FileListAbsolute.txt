@@ -1,0 +1,7 @@
+C:\Users\poliana.ssilva13\Documents\C#\1_Algoritmo\1_Algoritmo\bin\Debug\1_Algoritmo.exe.config
+C:\Users\poliana.ssilva13\Documents\C#\1_Algoritmo\1_Algoritmo\bin\Debug\1_Algoritmo.exe
+C:\Users\poliana.ssilva13\Documents\C#\1_Algoritmo\1_Algoritmo\bin\Debug\1_Algoritmo.pdb
+C:\Users\poliana.ssilva13\Documents\C#\1_Algoritmo\1_Algoritmo\obj\Debug\1_Algoritmo.csproj.AssemblyReference.cache
+C:\Users\poliana.ssilva13\Documents\C#\1_Algoritmo\1_Algoritmo\obj\Debug\1_Algoritmo.csproj.CoreCompileInputs.cache
+C:\Users\poliana.ssilva13\Documents\C#\1_Algoritmo\1_Algoritmo\obj\Debug\1_Algoritmo.exe
+C:\Users\poliana.ssilva13\Documents\C#\1_Algoritmo\1_Algoritmo\obj\Debug\1_Algoritmo.pdb

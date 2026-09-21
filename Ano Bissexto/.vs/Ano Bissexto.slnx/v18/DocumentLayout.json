@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\poliana.ssilva13\\Documents\\C#\\Ano Bissexto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F81943-0BE4-45B1-A3AD-E02881A429C6}|Ano Bissexto\\Ano Bissexto.vbproj|c:\\users\\poliana.ssilva13\\documents\\c#\\ano bissexto\\ano bissexto\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E2F81943-0BE4-45B1-A3AD-E02881A429C6}|Ano Bissexto\\Ano Bissexto.vbproj|solutionrelative:ano bissexto\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\poliana.ssilva13\\Documents\\C#\\Ano Bissexto\\Ano Bissexto\\Module1.vb",
+              "RelativeDocumentMoniker": "Ano Bissexto\\Module1.vb",
+              "ToolTip": "C:\\Users\\poliana.ssilva13\\Documents\\C#\\Ano Bissexto\\Ano Bissexto\\Module1.vb",
+              "RelativeToolTip": "Ano Bissexto\\Module1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-15T11:48:57.703Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

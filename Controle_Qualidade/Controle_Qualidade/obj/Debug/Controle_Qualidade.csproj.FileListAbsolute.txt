@@ -1,0 +1,7 @@
+C:\Users\poliana.ssilva13\Documents\C#\Controle_Qualidade\Controle_Qualidade\bin\Debug\Controle_Qualidade.exe.config
+C:\Users\poliana.ssilva13\Documents\C#\Controle_Qualidade\Controle_Qualidade\bin\Debug\Controle_Qualidade.exe
+C:\Users\poliana.ssilva13\Documents\C#\Controle_Qualidade\Controle_Qualidade\bin\Debug\Controle_Qualidade.pdb
+C:\Users\poliana.ssilva13\Documents\C#\Controle_Qualidade\Controle_Qualidade\obj\Debug\Controle_Qualidade.csproj.AssemblyReference.cache
+C:\Users\poliana.ssilva13\Documents\C#\Controle_Qualidade\Controle_Qualidade\obj\Debug\Controle_Qualidade.csproj.CoreCompileInputs.cache
+C:\Users\poliana.ssilva13\Documents\C#\Controle_Qualidade\Controle_Qualidade\obj\Debug\Controle_Qualidade.exe
+C:\Users\poliana.ssilva13\Documents\C#\Controle_Qualidade\Controle_Qualidade\obj\Debug\Controle_Qualidade.pdb

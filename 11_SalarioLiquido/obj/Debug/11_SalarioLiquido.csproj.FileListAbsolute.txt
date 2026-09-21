@@ -1,0 +1,7 @@
+C:\Users\poliana.ssilva13\Documents\C#\11_SalarioLiquido\obj\Debug\11_SalarioLiquido.csproj.AssemblyReference.cache
+C:\Users\poliana.ssilva13\Documents\C#\11_SalarioLiquido\obj\Debug\11_SalarioLiquido.csproj.CoreCompileInputs.cache
+C:\Users\poliana.ssilva13\Documents\C#\11_SalarioLiquido\bin\Debug\11_SalarioLiquido.exe.config
+C:\Users\poliana.ssilva13\Documents\C#\11_SalarioLiquido\bin\Debug\11_SalarioLiquido.exe
+C:\Users\poliana.ssilva13\Documents\C#\11_SalarioLiquido\bin\Debug\11_SalarioLiquido.pdb
+C:\Users\poliana.ssilva13\Documents\C#\11_SalarioLiquido\obj\Debug\11_SalarioLiquido.exe
+C:\Users\poliana.ssilva13\Documents\C#\11_SalarioLiquido\obj\Debug\11_SalarioLiquido.pdb

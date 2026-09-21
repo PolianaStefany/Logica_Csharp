@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\poliana.ssilva13\\Documents\\C#\\maior numero\\",
+  "WorkspaceRootPath": "C:\\Users\\poliana.ssilva13\\Documents\\GitHub\\Logica_Csharp\\maior numero\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2ED3A487-7AFC-47A8-B21A-11AA769C768A}|maior numero\\maior numero.csproj|c:\\users\\poliana.ssilva13\\documents\\c#\\maior numero\\maior numero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2ED3A487-7AFC-47A8-B21A-11AA769C768A}|maior numero\\maior numero.csproj|c:\\users\\poliana.ssilva13\\documents\\github\\logica_csharp\\maior numero\\maior numero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2ED3A487-7AFC-47A8-B21A-11AA769C768A}|maior numero\\maior numero.csproj|solutionrelative:maior numero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\poliana.ssilva13\\Documents\\C#\\maior numero\\maior numero\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\poliana.ssilva13\\Documents\\GitHub\\Logica_Csharp\\maior numero\\maior numero\\Program.cs",
               "RelativeDocumentMoniker": "maior numero\\Program.cs",
-              "ToolTip": "C:\\Users\\poliana.ssilva13\\Documents\\C#\\maior numero\\maior numero\\Program.cs",
+              "ToolTip": "C:\\Users\\poliana.ssilva13\\Documents\\GitHub\\Logica_Csharp\\maior numero\\maior numero\\Program.cs",
               "RelativeToolTip": "maior numero\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCcAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-10T14:19:52.883Z",
               "EditorCaption": ""

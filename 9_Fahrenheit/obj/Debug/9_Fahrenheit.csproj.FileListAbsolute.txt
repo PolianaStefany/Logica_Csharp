@@ -1,0 +1,7 @@
+C:\Users\poliana.ssilva13\Documents\C#\9_Fahrenheit\bin\Debug\9_Fahrenheit.exe.config
+C:\Users\poliana.ssilva13\Documents\C#\9_Fahrenheit\bin\Debug\9_Fahrenheit.exe
+C:\Users\poliana.ssilva13\Documents\C#\9_Fahrenheit\bin\Debug\9_Fahrenheit.pdb
+C:\Users\poliana.ssilva13\Documents\C#\9_Fahrenheit\obj\Debug\9_Fahrenheit.csproj.AssemblyReference.cache
+C:\Users\poliana.ssilva13\Documents\C#\9_Fahrenheit\obj\Debug\9_Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\poliana.ssilva13\Documents\C#\9_Fahrenheit\obj\Debug\9_Fahrenheit.exe
+C:\Users\poliana.ssilva13\Documents\C#\9_Fahrenheit\obj\Debug\9_Fahrenheit.pdb

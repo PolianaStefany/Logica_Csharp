@@ -1,0 +1,7 @@
+C:\Users\poliana.ssilva13\Documents\C#\CalcularDesconto\CalcularDesconto\bin\Debug\CalcularDesconto.exe.config
+C:\Users\poliana.ssilva13\Documents\C#\CalcularDesconto\CalcularDesconto\bin\Debug\CalcularDesconto.exe
+C:\Users\poliana.ssilva13\Documents\C#\CalcularDesconto\CalcularDesconto\bin\Debug\CalcularDesconto.pdb
+C:\Users\poliana.ssilva13\Documents\C#\CalcularDesconto\CalcularDesconto\obj\Debug\CalcularDesconto.csproj.AssemblyReference.cache
+C:\Users\poliana.ssilva13\Documents\C#\CalcularDesconto\CalcularDesconto\obj\Debug\CalcularDesconto.csproj.CoreCompileInputs.cache
+C:\Users\poliana.ssilva13\Documents\C#\CalcularDesconto\CalcularDesconto\obj\Debug\CalcularDesconto.exe
+C:\Users\poliana.ssilva13\Documents\C#\CalcularDesconto\CalcularDesconto\obj\Debug\CalcularDesconto.pdb

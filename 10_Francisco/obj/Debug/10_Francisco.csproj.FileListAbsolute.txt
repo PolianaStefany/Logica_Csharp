@@ -1,0 +1,7 @@
+C:\Users\poliana.ssilva13\Documents\C#\10_Francisco\bin\Debug\10_Francisco.exe.config
+C:\Users\poliana.ssilva13\Documents\C#\10_Francisco\bin\Debug\10_Francisco.exe
+C:\Users\poliana.ssilva13\Documents\C#\10_Francisco\bin\Debug\10_Francisco.pdb
+C:\Users\poliana.ssilva13\Documents\C#\10_Francisco\obj\Debug\10_Francisco.csproj.AssemblyReference.cache
+C:\Users\poliana.ssilva13\Documents\C#\10_Francisco\obj\Debug\10_Francisco.csproj.CoreCompileInputs.cache
+C:\Users\poliana.ssilva13\Documents\C#\10_Francisco\obj\Debug\10_Francisco.exe
+C:\Users\poliana.ssilva13\Documents\C#\10_Francisco\obj\Debug\10_Francisco.pdb

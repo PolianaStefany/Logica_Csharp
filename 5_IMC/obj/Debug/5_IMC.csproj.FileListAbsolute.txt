@@ -1,0 +1,7 @@
+C:\Users\poliana.ssilva13\Documents\C#\5_IMC\obj\Debug\5_IMC.csproj.AssemblyReference.cache
+C:\Users\poliana.ssilva13\Documents\C#\5_IMC\obj\Debug\5_IMC.csproj.CoreCompileInputs.cache
+C:\Users\poliana.ssilva13\Documents\C#\5_IMC\bin\Debug\5_IMC.exe.config
+C:\Users\poliana.ssilva13\Documents\C#\5_IMC\bin\Debug\5_IMC.exe
+C:\Users\poliana.ssilva13\Documents\C#\5_IMC\bin\Debug\5_IMC.pdb
+C:\Users\poliana.ssilva13\Documents\C#\5_IMC\obj\Debug\5_IMC.exe
+C:\Users\poliana.ssilva13\Documents\C#\5_IMC\obj\Debug\5_IMC.pdb

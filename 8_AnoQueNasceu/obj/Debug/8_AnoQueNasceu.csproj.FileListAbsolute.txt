@@ -1,0 +1,7 @@
+C:\Users\poliana.ssilva13\Documents\C#\8_AnoQueNasceu\bin\Debug\8_AnoQueNasceu.exe.config
+C:\Users\poliana.ssilva13\Documents\C#\8_AnoQueNasceu\bin\Debug\8_AnoQueNasceu.exe
+C:\Users\poliana.ssilva13\Documents\C#\8_AnoQueNasceu\bin\Debug\8_AnoQueNasceu.pdb
+C:\Users\poliana.ssilva13\Documents\C#\8_AnoQueNasceu\obj\Debug\8_AnoQueNasceu.csproj.AssemblyReference.cache
+C:\Users\poliana.ssilva13\Documents\C#\8_AnoQueNasceu\obj\Debug\8_AnoQueNasceu.csproj.CoreCompileInputs.cache
+C:\Users\poliana.ssilva13\Documents\C#\8_AnoQueNasceu\obj\Debug\8_AnoQueNasceu.exe
+C:\Users\poliana.ssilva13\Documents\C#\8_AnoQueNasceu\obj\Debug\8_AnoQueNasceu.pdb

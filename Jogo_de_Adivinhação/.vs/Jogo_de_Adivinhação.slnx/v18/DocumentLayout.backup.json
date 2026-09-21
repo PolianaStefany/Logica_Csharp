@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\poliana.ssilva13\\Documents\\C#\\Jogo_de_Adivinha\u00E7\u00E3o\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA04439B-2C0E-456A-942A-36D15FFA7456}|Jogo_de_Adivinha\u00E7\u00E3o\\Jogo_de_Adivinha\u00E7\u00E3o.csproj|c:\\users\\poliana.ssilva13\\documents\\c#\\jogo_de_adivinha\u00E7\u00E3o\\jogo_de_adivinha\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA04439B-2C0E-456A-942A-36D15FFA7456}|Jogo_de_Adivinha\u00E7\u00E3o\\Jogo_de_Adivinha\u00E7\u00E3o.csproj|solutionrelative:jogo_de_adivinha\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\poliana.ssilva13\\Documents\\C#\\Jogo_de_Adivinha\u00E7\u00E3o\\Jogo_de_Adivinha\u00E7\u00E3o\\Program.cs",
+              "RelativeDocumentMoniker": "Jogo_de_Adivinha\u00E7\u00E3o\\Program.cs",
+              "ToolTip": "C:\\Users\\poliana.ssilva13\\Documents\\C#\\Jogo_de_Adivinha\u00E7\u00E3o\\Jogo_de_Adivinha\u00E7\u00E3o\\Program.cs*",
+              "RelativeToolTip": "Jogo_de_Adivinha\u00E7\u00E3o\\Program.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T12:20:12.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

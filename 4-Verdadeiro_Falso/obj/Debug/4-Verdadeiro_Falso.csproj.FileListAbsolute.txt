@@ -1,0 +1,7 @@
+C:\Users\poliana.ssilva13\Documents\C#\4-Verdadeiro_Falso\bin\Debug\4-Verdadeiro_Falso.exe.config
+C:\Users\poliana.ssilva13\Documents\C#\4-Verdadeiro_Falso\bin\Debug\4-Verdadeiro_Falso.exe
+C:\Users\poliana.ssilva13\Documents\C#\4-Verdadeiro_Falso\bin\Debug\4-Verdadeiro_Falso.pdb
+C:\Users\poliana.ssilva13\Documents\C#\4-Verdadeiro_Falso\obj\Debug\4-Verdadeiro_Falso.csproj.AssemblyReference.cache
+C:\Users\poliana.ssilva13\Documents\C#\4-Verdadeiro_Falso\obj\Debug\4-Verdadeiro_Falso.csproj.CoreCompileInputs.cache
+C:\Users\poliana.ssilva13\Documents\C#\4-Verdadeiro_Falso\obj\Debug\4-Verdadeiro_Falso.exe
+C:\Users\poliana.ssilva13\Documents\C#\4-Verdadeiro_Falso\obj\Debug\4-Verdadeiro_Falso.pdb

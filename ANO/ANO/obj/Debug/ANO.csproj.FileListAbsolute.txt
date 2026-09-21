@@ -1,0 +1,7 @@
+C:\Users\poliana.ssilva13\Documents\C#\ANO\ANO\bin\Debug\ANO.exe.config
+C:\Users\poliana.ssilva13\Documents\C#\ANO\ANO\bin\Debug\ANO.exe
+C:\Users\poliana.ssilva13\Documents\C#\ANO\ANO\bin\Debug\ANO.pdb
+C:\Users\poliana.ssilva13\Documents\C#\ANO\ANO\obj\Debug\ANO.csproj.AssemblyReference.cache
+C:\Users\poliana.ssilva13\Documents\C#\ANO\ANO\obj\Debug\ANO.csproj.CoreCompileInputs.cache
+C:\Users\poliana.ssilva13\Documents\C#\ANO\ANO\obj\Debug\ANO.exe
+C:\Users\poliana.ssilva13\Documents\C#\ANO\ANO\obj\Debug\ANO.pdb

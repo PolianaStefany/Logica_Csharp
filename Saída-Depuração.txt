@@ -1,0 +1,4 @@
+﻿"Jogo_de_Adivinhação.exe" (CLR v4.0.30319: DefaultDomain): Carregado "C:\WINDOWS\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"Jogo_de_Adivinhação.exe" (CLR v4.0.30319: DefaultDomain): Carregado "C:\Users\poliana.ssilva13\Documents\C#\Jogo_de_Adivinhação\Jogo_de_Adivinhação\bin\Debug\Jogo_de_Adivinhação.exe". Símbolos carregados.
+"Jogo_de_Adivinhação.exe" (CLR v4.0.30319: Jogo_de_Adivinhação.exe): Carregado "C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\Remote Debugger\x86\Runtime\Microsoft.VisualStudio.Debugger.Runtime.Desktop.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+O programa "[21028] Jogo_de_Adivinhação.exe" foi fechado com o código 3221225786 (0xc000013a).

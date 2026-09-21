@@ -1,0 +1,7 @@
+C:\Users\poliana.ssilva13\Documents\C#\12_Viagem\obj\Debug\12_Viagem.csproj.AssemblyReference.cache
+C:\Users\poliana.ssilva13\Documents\C#\12_Viagem\obj\Debug\12_Viagem.csproj.CoreCompileInputs.cache
+C:\Users\poliana.ssilva13\Documents\C#\12_Viagem\bin\Debug\12_Viagem.exe.config
+C:\Users\poliana.ssilva13\Documents\C#\12_Viagem\bin\Debug\12_Viagem.exe
+C:\Users\poliana.ssilva13\Documents\C#\12_Viagem\bin\Debug\12_Viagem.pdb
+C:\Users\poliana.ssilva13\Documents\C#\12_Viagem\obj\Debug\12_Viagem.exe
+C:\Users\poliana.ssilva13\Documents\C#\12_Viagem\obj\Debug\12_Viagem.pdb

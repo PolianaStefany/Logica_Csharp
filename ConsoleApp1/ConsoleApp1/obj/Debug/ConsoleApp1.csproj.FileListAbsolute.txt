@@ -1,7 +1,7 @@
-C:\Users\poliana.ssilva13\Documents\C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
-C:\Users\poliana.ssilva13\Documents\C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 C:\Users\poliana.ssilva13\Documents\C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
 C:\Users\poliana.ssilva13\Documents\C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
 C:\Users\poliana.ssilva13\Documents\C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\poliana.ssilva13\Documents\C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\poliana.ssilva13\Documents\C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 C:\Users\poliana.ssilva13\Documents\C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\poliana.ssilva13\Documents\C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -1,0 +1,7 @@
+C:\Users\poliana.ssilva13\Documents\C#\2_Salario\bin\Debug\2_Salario.exe.config
+C:\Users\poliana.ssilva13\Documents\C#\2_Salario\bin\Debug\2_Salario.exe
+C:\Users\poliana.ssilva13\Documents\C#\2_Salario\bin\Debug\2_Salario.pdb
+C:\Users\poliana.ssilva13\Documents\C#\2_Salario\obj\Debug\2_Salario.csproj.AssemblyReference.cache
+C:\Users\poliana.ssilva13\Documents\C#\2_Salario\obj\Debug\2_Salario.csproj.CoreCompileInputs.cache
+C:\Users\poliana.ssilva13\Documents\C#\2_Salario\obj\Debug\2_Salario.exe
+C:\Users\poliana.ssilva13\Documents\C#\2_Salario\obj\Debug\2_Salario.pdb
