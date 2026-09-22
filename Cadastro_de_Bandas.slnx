@@ -1,3 +1,243 @@
-<Solution>
-  <Project Path="Cadastro_de_Bandas/Cadastro_de_Bandas.csproj" />
-</Solution>
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Threading;
+
+namespace Cadastro_de_Bandas
+{
+    internal class Program
+    {
+        /*
+         Se  /  enquanto  / para / caso
+        if       while      for      switch
+
+        Crie um sistema de Cadastro de Álbuns de um artista / banda que sera possível cadastrar um numero  X 
+        de músicas informada pelo usuário. Crie um menu de opções para isso. */
+
+        static void Main(string[] args)
+        {
+            int opcao = 0;
+            while (opcao != 4)
+            {
+                Console.Clear(); // limpa a tela 
+                Console.ForegroundColor = ConsoleColor.Yellow;
+                Console.WriteLine(@"
+░█████╗░░█████╗░███╗░░██╗████████╗██████╗░░█████╗░██╗░░░░░███████╗  ██████╗░███████╗
+██╔══██╗██╔══██╗████╗░██║╚══██╔══╝██╔══██╗██╔══██╗██║░░░░░██╔════╝  ██╔══██╗██╔════╝
+██║░░╚═╝██║░░██║██╔██╗██║░░░██║░░░██████╔╝██║░░██║██║░░░░░█████╗░░  ██║░░██║█████╗░░
+██║░░██╗██║░░██║██║╚████║░░░██║░░░██╔══██╗██║░░██║██║░░░░░██╔══╝░░  ██║░░██║██╔══╝░░
+╚█████╔╝╚█████╔╝██║░╚███║░░░██║░░░██║░░██║╚█████╔╝███████╗███████╗  ██████╔╝███████╗
+░╚════╝░░╚════╝░╚═╝░░╚══╝░░░╚═╝░░░╚═╝░░╚═╝░╚════╝░╚══════╝╚══════╝  ╚═════╝░╚══════╝
+
+██████╗░░█████╗░███╗░░██╗██████╗░░█████╗░░██████╗
+██╔══██╗██╔══██╗████╗░██║██╔══██╗██╔══██╗██╔════╝
+██████╦╝███████║██╔██╗██║██║░░██║███████║╚█████╗░
+██╔══██╗██╔══██║██║╚████║██║░░██║██╔══██║░╚═══██╗
+██████╦╝██║░░██║██║░╚███║██████╔╝██║░░██║██████╔╝
+╚═════╝░╚═╝░░╚═╝╚═╝░░╚══╝╚═════╝░╚═╝░░╚═╝╚═════╝░");
+
+                Console.ResetColor();
+                Console.ForegroundColor = ConsoleColor.DarkGray;
+                Console.WriteLine(" 1 - Cadastrar Album da Banda");
+                Console.WriteLine(" 2 - Cadastrar Album do Artista"); // Ano , Nome Artista // qtd album, qtd vendas
+                Console.WriteLine(" 3 - Cadastrar Músicas"); //nome musica, duração, premiação // digitar a qtd musicas
+                Console.WriteLine(" 4 - Sair do Programa");
+                Console.WriteLine(" ----> ");
+                Console.ResetColor();
+                opcao = int.Parse(Console.ReadLine());
+
+                switch (opcao)
+                {
+                    case 1:
+
+                        Cadastro_Bandas();
+
+
+
+                        break; // encerra o programa 
+                    case 2:
+                        Cadastro_Album();
+
+                        break;
+                    case 3:
+                        Cadastro_Musica();
+                        break;
+                    case 4:
+                        Console.WriteLine(" Saindo do Programa!!! Tchau Tchau !!    :)");
+                        break;
+                }
+
+
+
+
+
+
+
+            }
+
+
+
+        }
+
+        static void Cadastro_Bandas()
+        {
+
+            string nomeBanda, nomeAlbum;
+            int qtdMusicas;
+            Console.Clear();    // limpa tela
+            Console.WriteLine(@"
+░█████╗░░█████╗░██████╗░░█████╗░░██████╗████████╗██████╗░░█████╗░  ██████╗░███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝╚══██╔══╝██╔══██╗██╔══██╗  ██╔══██╗██╔════╝
+██║░░╚═╝███████║██║░░██║███████║╚█████╗░░░░██║░░░██████╔╝██║░░██║  ██║░░██║█████╗░░
+██║░░██╗██╔══██║██║░░██║██╔══██║░╚═══██╗░░░██║░░░██╔══██╗██║░░██║  ██║░░██║██╔══╝░░
+╚█████╔╝██║░░██║██████╔╝██║░░██║██████╔╝░░░██║░░░██║░░██║╚█████╔╝  ██████╔╝███████╗
+░╚════╝░╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝░╚════╝░  ╚═════╝░╚══════╝
+
+██████╗░░█████╗░███╗░░██╗██████╗░░█████╗░░██████╗
+██╔══██╗██╔══██╗████╗░██║██╔══██╗██╔══██╗██╔════╝
+██████╦╝███████║██╔██╗██║██║░░██║███████║╚█████╗░
+██╔══██╗██╔══██║██║╚████║██║░░██║██╔══██║░╚═══██╗
+██████╦╝██║░░██║██║░╚███║██████╔╝██║░░██║██████╔╝
+╚═════╝░╚═╝░░╚═╝╚═╝░░╚══╝╚═════╝░╚═╝░░╚═╝╚═════╝░");
+
+            Console.ResetColor();
+            Console.ForegroundColor = ConsoleColor.Cyan;
+
+            Console.WriteLine("Digite o Nome da Banda: ");
+            nomeBanda = Console.ReadLine();
+
+            Console.WriteLine("Digite o Nome da Album: ");
+            nomeAlbum = Console.ReadLine();
+
+            Console.WriteLine("Digite o Número de Músicas: ");
+            qtdMusicas = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("\nCadastro realizado com Sucesso !!! ");
+            Console.WriteLine("\nnomeBanda");
+            Console.WriteLine("\nnomeAlbum");
+            Console.WriteLine("\nqtdMusicas");
+
+
+            Thread.Sleep(5000);
+
+
+
+        }
+
+
+
+
+
+        static void Cadastro_Album()  //// Ano , Nome Artista // qtd album, qtd vendas
+        {
+
+            int qtdAlbum, qtdVendas, Ano;
+            string nomeArtista;
+
+
+
+
+
+            Console.Clear();
+            Console.WriteLine(@"
+▄▀█ █░░ █▄▄ █░█ █▀▄▀█   █▀▄ █▀█   ▄▀█ █▀█ ▀█▀ █ █▀ ▀█▀ ▄▀█
+█▀█ █▄▄ █▄█ █▄█ █░▀░█   █▄▀ █▄█   █▀█ █▀▄ ░█░ █ ▄█ ░█░ █▀█");
+
+            Console.ResetColor();
+            Console.ForegroundColor = ConsoleColor.DarkGreen;
+
+            Console.WriteLine("Digite o Ano do Album: ");
+            Ano = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Digite o nome do artista: ");
+            nomeArtista = Console.ReadLine();
+
+            Console.WriteLine("Quantidade de Album: ");
+            qtdAlbum = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Quantidade de vendas: ");
+            qtdVendas = int.Parse(Console.ReadLine());
+
+
+            Console.WriteLine("\n Ano do album " + Ano);
+            Console.WriteLine("\n Nome do Artista " + nomeArtista );
+            Console.WriteLine("\n Quantidade de Album: " + qtdAlbum );
+            Console.WriteLine("\n Quantidade de Vendas: " + qtdVendas);
+
+
+            Thread.Sleep(5000);
+
+
+
+
+
+
+
+
+
+        }
+
+
+        static void Cadastro_Musica() //nome musica, duração, premiação // digitar a qtd musicas 
+        {
+            int qtdMusicas;
+            string nome;
+            double duracao;
+            string premiacao;
+
+            Console.Clear();
+            Console.WriteLine(@"
+░█████╗░░█████╗░██████╗░░█████╗░░██████╗████████╗██████╗░░█████╗░  ██████╗░███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝╚══██╔══╝██╔══██╗██╔══██╗  ██╔══██╗██╔════╝
+██║░░╚═╝███████║██║░░██║███████║╚█████╗░░░░██║░░░██████╔╝██║░░██║  ██║░░██║█████╗░░
+██║░░██╗██╔══██║██║░░██║██╔══██║░╚═══██╗░░░██║░░░██╔══██╗██║░░██║  ██║░░██║██╔══╝░░
+╚█████╔╝██║░░██║██████╔╝██║░░██║██████╔╝░░░██║░░░██║░░██║╚█████╔╝  ██████╔╝███████╗
+░╚════╝░╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝░╚════╝░  ╚═════╝░╚══════╝
+
+███╗░░░███╗██╗░░░██╗░██████╗██╗░█████╗░░█████╗░
+████╗░████║██║░░░██║██╔════╝██║██╔══██╗██╔══██╗
+██╔████╔██║██║░░░██║╚█████╗░██║██║░░╚═╝███████║
+██║╚██╔╝██║██║░░░██║░╚═══██╗██║██║░░██╗██╔══██║
+██║░╚═╝░██║╚██████╔╝██████╔╝██║╚█████╔╝██║░░██║     
+╚═╝░░░░░╚═╝░╚═════╝░╚═════╝░╚═╝░╚════╝░╚═╝░░╚═╝");
+            Console.ResetColor();
+            Console.ForegroundColor = ConsoleColor.Magenta;
+
+
+            Console.WriteLine("Digite a quantidade de músicas: ");
+            qtdMusicas = int.Parse(Console.ReadLine());
+
+
+            for (int i = 1; i <= qtdMusicas; i++)
+            {
+
+
+                Console.WriteLine("Digite o nome da musica: ");
+                nome = Console.ReadLine();
+
+                Console.WriteLine("Digite a duração: ");
+                duracao = double.Parse(Console.ReadLine());
+
+                Console.WriteLine("Digite a premiação: ");
+                premiacao = Console.ReadLine();
+
+
+                Console.WriteLine("\n--- Dados da música ---");
+                Console.WriteLine("Nome: " + nome);
+                Console.WriteLine("Duração: " + duracao);
+                Console.WriteLine("Premiação: " + premiacao);
+
+                Thread.Sleep(5000);
+
+
+
+
+
+
+
+            }
+        }
+    }
+}
