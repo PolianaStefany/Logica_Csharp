@@ -1,0 +1,7 @@
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
