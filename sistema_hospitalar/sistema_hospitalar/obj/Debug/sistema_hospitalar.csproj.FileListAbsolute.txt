@@ -1,0 +1,7 @@
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\sistema_hospitalar\sistema_hospitalar\bin\Debug\sistema_hospitalar.exe.config
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\sistema_hospitalar\sistema_hospitalar\bin\Debug\sistema_hospitalar.exe
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\sistema_hospitalar\sistema_hospitalar\bin\Debug\sistema_hospitalar.pdb
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\sistema_hospitalar\sistema_hospitalar\obj\Debug\sistema_hospitalar.csproj.AssemblyReference.cache
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\sistema_hospitalar\sistema_hospitalar\obj\Debug\sistema_hospitalar.csproj.CoreCompileInputs.cache
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\sistema_hospitalar\sistema_hospitalar\obj\Debug\sistema_hospitalar.exe
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\sistema_hospitalar\sistema_hospitalar\obj\Debug\sistema_hospitalar.pdb
