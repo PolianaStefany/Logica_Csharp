@@ -1,0 +1,7 @@
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\TESTE\TESTE\bin\Debug\TESTE.exe.config
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\TESTE\TESTE\bin\Debug\TESTE.exe
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\TESTE\TESTE\bin\Debug\TESTE.pdb
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\TESTE\TESTE\obj\Debug\TESTE.csproj.AssemblyReference.cache
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\TESTE\TESTE\obj\Debug\TESTE.csproj.CoreCompileInputs.cache
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\TESTE\TESTE\obj\Debug\TESTE.exe
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\TESTE\TESTE\obj\Debug\TESTE.pdb
