@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\poliana.ssilva13\\Documents\\GitHub\\Logica_Csharp\\Temperatura _da_semana\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27DC59C7-8053-4367-907B-B6D0781AC216}|Temperatura _da_semana\\Temperatura _da_semana.csproj|c:\\users\\poliana.ssilva13\\documents\\github\\logica_csharp\\temperatura _da_semana\\temperatura _da_semana\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DC59C7-8053-4367-907B-B6D0781AC216}|Temperatura _da_semana\\Temperatura _da_semana.csproj|solutionrelative:temperatura _da_semana\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\poliana.ssilva13\\Documents\\GitHub\\Logica_Csharp\\Temperatura _da_semana\\Temperatura _da_semana\\Program.cs",
+              "RelativeDocumentMoniker": "Temperatura _da_semana\\Program.cs",
+              "ToolTip": "C:\\Users\\poliana.ssilva13\\Documents\\GitHub\\Logica_Csharp\\Temperatura _da_semana\\Temperatura _da_semana\\Program.cs*",
+              "RelativeToolTip": "Temperatura _da_semana\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T13:49:58.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

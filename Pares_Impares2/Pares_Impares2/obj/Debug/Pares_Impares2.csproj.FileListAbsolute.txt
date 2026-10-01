@@ -1,0 +1,7 @@
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\Pares_Impares2\Pares_Impares2\bin\Debug\Pares_Impares2.exe.config
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\Pares_Impares2\Pares_Impares2\bin\Debug\Pares_Impares2.exe
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\Pares_Impares2\Pares_Impares2\bin\Debug\Pares_Impares2.pdb
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\Pares_Impares2\Pares_Impares2\obj\Debug\Pares_Impares2.csproj.AssemblyReference.cache
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\Pares_Impares2\Pares_Impares2\obj\Debug\Pares_Impares2.csproj.CoreCompileInputs.cache
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\Pares_Impares2\Pares_Impares2\obj\Debug\Pares_Impares2.exe
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\Pares_Impares2\Pares_Impares2\obj\Debug\Pares_Impares2.pdb

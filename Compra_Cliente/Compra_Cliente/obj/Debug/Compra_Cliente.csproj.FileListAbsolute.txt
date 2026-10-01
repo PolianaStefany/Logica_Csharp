@@ -1,0 +1,7 @@
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\Compra_Cliente\Compra_Cliente\bin\Debug\Compra_Cliente.exe.config
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\Compra_Cliente\Compra_Cliente\bin\Debug\Compra_Cliente.exe
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\Compra_Cliente\Compra_Cliente\bin\Debug\Compra_Cliente.pdb
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\Compra_Cliente\Compra_Cliente\obj\Debug\Compra_Cliente.csproj.AssemblyReference.cache
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\Compra_Cliente\Compra_Cliente\obj\Debug\Compra_Cliente.csproj.CoreCompileInputs.cache
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\Compra_Cliente\Compra_Cliente\obj\Debug\Compra_Cliente.exe
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\Compra_Cliente\Compra_Cliente\obj\Debug\Compra_Cliente.pdb

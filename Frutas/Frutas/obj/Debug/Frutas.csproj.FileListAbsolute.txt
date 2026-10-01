@@ -1,0 +1,7 @@
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\Frutas\Frutas\obj\Debug\Frutas.csproj.AssemblyReference.cache
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\Frutas\Frutas\obj\Debug\Frutas.csproj.CoreCompileInputs.cache
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\Frutas\Frutas\bin\Debug\Frutas.exe.config
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\Frutas\Frutas\bin\Debug\Frutas.exe
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\Frutas\Frutas\bin\Debug\Frutas.pdb
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\Frutas\Frutas\obj\Debug\Frutas.exe
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\Frutas\Frutas\obj\Debug\Frutas.pdb

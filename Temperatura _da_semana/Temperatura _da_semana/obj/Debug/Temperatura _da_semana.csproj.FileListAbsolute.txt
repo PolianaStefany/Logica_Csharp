@@ -1,0 +1,7 @@
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\Temperatura _da_semana\Temperatura _da_semana\bin\Debug\Temperatura _da_semana.exe.config
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\Temperatura _da_semana\Temperatura _da_semana\bin\Debug\Temperatura _da_semana.exe
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\Temperatura _da_semana\Temperatura _da_semana\bin\Debug\Temperatura _da_semana.pdb
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\Temperatura _da_semana\Temperatura _da_semana\obj\Debug\Temperatura _da_semana.csproj.AssemblyReference.cache
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\Temperatura _da_semana\Temperatura _da_semana\obj\Debug\Temperatura _da_semana.csproj.CoreCompileInputs.cache
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\Temperatura _da_semana\Temperatura _da_semana\obj\Debug\Temperatura _da_semana.exe
+C:\Users\poliana.ssilva13\Documents\GitHub\Logica_Csharp\Temperatura _da_semana\Temperatura _da_semana\obj\Debug\Temperatura _da_semana.pdb
